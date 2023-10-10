@@ -17,3 +17,4 @@ const sum2 = (a, b) => {
 };
 console.log(sum2(4, 'f'));
 let isActive;
+let cri = 'taken!!';

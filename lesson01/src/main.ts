@@ -27,3 +27,5 @@ return a+b
 console.log(sum2(4,'f'))
 
 let isActive : number | boolean;
+
+let cri = 'taken!!'
